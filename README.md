@@ -25,3 +25,6 @@
 2. Запустите скрипт
    ```bash
    python Sky_Map.py
+
+  ![image](https://github.com/user-attachments/assets/64a87aec-633e-428d-afd1-c9ef544e56f1)
+
